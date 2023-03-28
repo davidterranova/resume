@@ -1,0 +1,278 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'david terranova resume'
+theme = 'devresume'
+
+[params]
+    author = "david terranova"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+    primaryColor = "#61788c"
+    textPrimaryColor = "#292929"
+
+    [params.profile]
+        enable = true
+        name = "David Terranova"
+        tagline = "Engineering manager | Software architect"
+        avatar = "avatar.png"
+
+    [params.contact]
+        enable = true
+        location = "Montpellier (FR)"
+
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:#"
+        text = "+33 6 33 69 62 84"
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:#"
+        text = "+41 76 232 56 77"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "davidp.terranova@gmail.com"
+        # [[params.contact.list]]
+        # icon = "fas fa-globe"
+        # url = "#"
+        # text = "www.yourwebsite.com"
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "Technical leadership"
+        [[params.skills.list.items]]
+        details = "Distributed team management"
+        [[params.skills.list.items]]
+        details = "Professional and personal development"
+        [[params.skills.list.items]]
+        details = "Technical strategy"
+        [[params.skills.list.items]]
+        details = "Agile methodologies"
+        [[params.skills.list.items]]
+        details = "Effective communication"
+        [[params.skills.list.items]]
+        details = "Strong problem solver"
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "Distributed systems"
+        [[params.skills.list.items]]
+        details = "Go/Python/Ruby/Java/Bash"
+        [[params.skills.list.items]]
+        details = "AWS/Google cloud"
+        [[params.skills.list.items]]
+        details = "OAuth2/OpenID Connect"
+        [[params.skills.list.items]]
+        details = "Docker/ECS/k8s"
+        [[params.skills.list.items]]
+        details = "Web services/SOA"
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "MSc in Computer Science - Software Design"
+        university = "EPSI Montpellier (FR)"
+        dates = "2009 - 2012"
+        [[params.education.list]]
+        degree = "BSc Computer Science - Management"
+        university = "IUT Montpellier (FR)"
+        dates = "2007 - 2009"
+
+    [params.awards]
+        enable = false
+
+        # [[params.awards.list]]
+        # name = "Award Lorem Ipsum"
+        # body = "Microsoft lorem ipsum"
+        # date = "2019"
+        # [[params.awards.list]]
+        # name = "Award Donec Sodales"
+        # body = "Oracle Aenean"
+        # date = "2017"
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "French"
+        level = "Native"
+        [[params.languages.list]]
+        name = "English"
+        level = "Fluent"
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "Motorbike racing"
+        [[params.interests.list]]
+        name = "Kitesurfing"
+        [[params.interests.list]]
+        name = "Photography"
+        [[params.interests.list]]
+        name = "Travelling"
+
+    [params.summary]
+        enable = true
+        text = """Passionate by tech, hands-on manager with 12+ years of experience of end-to-end software development.
+        Management experience ranging from hands-on mentoring & direct management to managing multiple teams and responsible for all aspects of deliveries, deployments and maintenance of complex software solutions.
+        """
+        moto = "Moto: Sometimes failing and always learning."
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Senior Engineering Manager"
+        dates = "2021 - Present"
+        company = "Smallpdf"
+        location = "Zurich (CH)"
+        details = "Driving the the Document legality domain. Extending the domain with a second team."
+        [[params.experience.list.items]]
+        details = "People management, professional and personal development, mentorship"
+        [[params.experience.list.items]]
+        details = "Technical strategy, cross-pod communication"
+        [[params.experience.list.items]]
+        details = "Design and share system architectures/software design "
+        [[params.experience.list.items]]
+        details = "Sharing experiences & good practices to contribute shaping other pods"
+
+        [[params.experience.list]]
+        title = "Engineering Manager"
+        dates = "2020 - 2021"
+        company = "Smallpdf"
+        location = "Zurich (CH)"
+        details = "Hands-on engineering manager, hired a cross functional team and built a CQRS & Event sourcing based digital signature solution for **40M+ unique active users per month**."
+
+        [[params.experience.list]]
+        title = "Senior Software Engineer - Backend"
+        dates = "2020"
+        company = "Smallpdf"
+        location = "Zurich (CH)"
+        details = "Coordination and integrating new OpenID authentication service supporting Smallpdf users."
+        [[params.experience.list.items]]
+        details = "Designing and implementing custom specifications to support product requirements"
+        [[params.experience.list.items]]
+        details = "Writing extensions and adapters to support existing user management system"
+        [[params.experience.list.items]]
+        details = "Writing custom authorizers to support seamless migration from legacy authentication system to the new one"
+        [[params.experience.list.items]]
+        details = "Writing generic middleware to provide authorization to existing backend services"
+
+        [[params.experience.list]]
+        title = "Chief Technology Officer"
+        dates = "2017 - 2019"
+        company = "TellMePlus"
+        location = "Montpellier (FR)"
+        details = "Define the roadmap, technical strategy and key architecture of Predictive Objects. A clound agnostic platform, available on premise, able to ingest IoT sensor data, extend features, build datasets and use supervised machine learning to train Predictive Objects models helping anticipating failures on industrial plants."
+
+        [[params.experience.list]]
+        title = "Engineering Manager - DevOps"
+        dates = "2015 - 2017"
+        company = "TellMePlus"
+        location = "Montpellier (FR)"
+        details = "Manage transversal team supporting Predictive Objects in multi cloud environments. We also provided good practices, tooling and security guidelines."
+
+        [[params.experience.list]]
+        title = "CTO / Co-Founder"
+        dates = "2014 - 2015"
+        company = "Arksens cyber security"
+        location = "Mauritius"
+        details = "Arksens Cyber Security is a digital security vendor for small & medium sized companies. It provides & customizes a set of tools and services to help companies autonomously protecting themselves against cyber threats at controlled cost."
+
+        [[params.experience.list]]
+        title = "Software Engineer - Backend"
+        dates = "2013 - 2014"
+        company = "TellMePlus"
+        location = "Montpellier (FR)"
+        details = "Shopping Intelligence, Recommandation over Big-Data using NoSQL & CHOCO library to produce fined grained recommandation."
+
+        [[params.experience.list]]
+        title = "Research Engineer"
+        dates = "2013"
+        company = "LIRMM - Montpellier Laboratory of Computer Science, Robotics, and Microelectronics"
+        location = "Montpellier (FR)"
+        details = "Constraint Programming. Applying constraint programming on concrete business cases."
+
+        [[params.experience.list]]
+        title = "Software Engineer"
+        dates = "2011 - 2013"
+        company = "Sanofi"
+        location = "Montpellier (FR)"
+        details = "Created a sqlite based framework for mobile applications designed to compound with security guidelines of clinical studies." 
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "Artistic Pictures"
+        meta = "Photography, Software Development"
+        tagline = "Capturing the perfect moment, artistic vision in mind"
+
+        [[params.projects.list]]
+        title = "Construction Coordinator / builder"
+        meta = "Construction"
+        tagline = "Design, creation, and construction of my personal house"
+
+        [[params.projects.list]]
+        title = "Le Sonambule, volunteering"
+        meta = "Arts - Music"
+        tagline = "Contributing to make the organisation to offer concerts at a fair price"
+
+    [params.information]
+        enable = false
+
+        # [[params.information.list]]
+        # title = "Papers"
+        # [[params.information.list.items]]
+        # details = "2018 · Lorem Ipsum"
+        # [[params.information.list.items]]
+        # details = "2016 · Sed Fringilla"
+
+        [[params.information.list]]
+        title = "Interests"
+        details = "Motorbike racing, Kitesurfing, Photography, Travelling"
+
+    [params.recommendations]
+        enable = true
+
+        # [[params.information.list]]
+        # title = "Mike Pilawski"
+        # [[params.information.list.items]]
+        # details = "2018 · Lorem Ipsum"
+        # [[params.information.list.items]]
+        # details = "2016 · Sed Fringilla"
+
+        [[params.recommendations.list]]
+        title = "Mike Pilawski"
+        meta = "Mike was David's mentor"
+        details = """David is a great technology leader and an engineering manager. He is a strong architect capable of thinking through complex architectural choices and arriving at simple and reliable solutions. He can take large, complex projects, identify key risks and direct the team through milestones to completion. He is also a great manager who deeply cares for his team and invests time to help his team members grow.
+        
+It was a real privilege working with David and I hope I will have the opportunity to do it again."""
+
+        [[params.recommendations.list]]
+        title = "Jakub Skoczeń"
+        meta = "Jakub reported directly to David"
+        details = "David is an exceptional hands-on manager with extensive technical knowledge and a pragmatic approach to problem-solving. He has a talent for building efficient and successful teams full of trust, and his collaborative leadership style inspires great results. I highly recommend him as a skilled and knowledgeable leader."
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/davidterranova"
+        title = "davidterranova"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/terranovadavid"
+        title = "terranovadavid"
+        [[params.social.list]]
+        icon = "fab fa-twitter-square"
+        url = "//twitter.com/terranovadavid"
+        title = "@terranovadavid"
