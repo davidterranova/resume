@@ -121,7 +121,7 @@ theme = 'devresume'
     [params.summary]
         enable = true
         text = """Passionate by tech, hands-on manager with 12+ years of experience of end-to-end software development.
-        Management experience ranging from hands-on mentoring & direct management to managing multiple teams and responsible for all aspects of deliveries, deployments and maintenance of complex software solutions.
+        Management experience ranging from hands-on mentoring & direct management to managing multiple teams from 6 to 12 engineers and responsible for all aspects of deliveries, deployments and maintenance of complex software solutions.
         """
         moto = "Moto: Sometimes failing and always learning."
 
@@ -133,7 +133,7 @@ theme = 'devresume'
         dates = "2021 - Present"
         company = "Smallpdf"
         location = "Zurich (CH)"
-        details = "Driving the the Document legality domain. Extending the domain with a second team."
+        details = "Driving the the Document legality domain. Extending and managing the domain with a second team."
         [[params.experience.list.items]]
         details = "People management, professional and personal development, mentorship"
         [[params.experience.list.items]]
