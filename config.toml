@@ -121,8 +121,8 @@ theme = 'devresume'
 
     [params.summary]
         enable = true
-        text = """Passionate by tech, hands-on manager with 12+ years of experience of end-to-end software development.
-        Management experience ranging from hands-on mentoring & direct management to managing multiple teams from 6 to 12 engineers and responsible for all aspects of deliveries, deployments and maintenance of complex software solutions.
+        text = """Passionate by tech, hands-on manager with **12+ years of experience** of end-to-end software development.
+        Management experience ranging from hands-on mentoring & direct management of **multiple teams from 6 to 12 engineers** and responsible for all aspects of deliveries, deployments and maintenance of complex software solutions.
         """
         moto = "Moto: Sometimes failing and always learning."
 
@@ -134,9 +134,11 @@ theme = 'devresume'
         dates = "2021 - Present"
         company = "Smallpdf"
         location = "Zurich (CH)"
-        details = "Driving the the Document legality domain. Extending and managing the domain with a second team."
+        details = "In charge of the the Document legality domain. Extending and managing the domain with a second team. Driving the technical strategy and architecture."
         [[params.experience.list.items]]
         details = "People management, professional and personal development, mentorship"
+        [[params.experience.list.items]]
+        details = "Promote transparency, initiatives, autonomy, ownership and accountability"
         [[params.experience.list.items]]
         details = "Technical strategy, cross-pod communication"
         [[params.experience.list.items]]
@@ -149,14 +151,14 @@ theme = 'devresume'
         dates = "2020 - 2021"
         company = "Smallpdf"
         location = "Zurich (CH)"
-        details = "Hands-on engineering manager, hired a cross functional team and built a CQRS & Event sourcing based digital signature solution for **40M+ unique active users per month**."
+        details = "Hands-on engineering manager, hired a cross functional team and delivered a CQRS & Event sourcing based digital signature solution for **40M+ unique active users per month**."
 
         [[params.experience.list]]
         title = "Senior Software Engineer - Backend"
         dates = "2020"
         company = "Smallpdf"
         location = "Zurich (CH)"
-        details = "Coordination and integrating new OpenID authentication service supporting Smallpdf users."
+        details = "Coordination and integrating of the new OpenID authentication service supporting 40M+ monthly unique active users."
         [[params.experience.list.items]]
         details = "Designing and implementing custom specifications to support product requirements"
         [[params.experience.list.items]]
@@ -171,14 +173,14 @@ theme = 'devresume'
         dates = "2017 - 2019"
         company = "TellMePlus"
         location = "Montpellier (FR)"
-        details = "Define the roadmap, technical strategy and key architecture of Predictive Objects. A clound agnostic platform, available on premise, able to ingest IoT sensor data, extend features, build datasets and use supervised machine learning to train Predictive Objects models helping anticipating failures on industrial plants."
+        details = "Define the roadmap, technical strategy and key architecture of Predictive Objects, track development progress and engineering division metrics. A clound agnostic platform, available on premise, able to ingest IoT sensor data, extend features, build datasets and use supervised machine learning to train Predictive Objects models helping anticipating failures on industrial plants."
 
         [[params.experience.list]]
         title = "Engineering Manager - DevOps"
         dates = "2015 - 2017"
         company = "TellMePlus"
         location = "Montpellier (FR)"
-        details = "Manage transversal team supporting Predictive Objects in multi cloud environments. We also provided good practices, tooling and security guidelines."
+        details = "Manage transversal team supporting Predictive Objects in multi cloud environments. We also promoted development good practices, security guidelines and tooling to the engineering teams."
 
         [[params.experience.list]]
         title = "CTO / Co-Founder"
