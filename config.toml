@@ -1,11 +1,11 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://dterranova.fr'
 languageCode = 'en-us'
 title = 'david terranova resume'
 theme = 'devresume'
 
 [params]
     author = "david terranova"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    description = "david terranova resume. engineering manager | software architect"
 
     primaryColor = "#61788c"
     textPrimaryColor = "#292929"
@@ -31,11 +31,11 @@ theme = 'devresume'
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
-        text = "davidp.terranova@gmail.com"
-        # [[params.contact.list]]
-        # icon = "fas fa-globe"
-        # url = "#"
-        # text = "www.yourwebsite.com"
+        text = "davidp.terranova[@]gmail.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "https://davidterranova.github.io/resume/"
+        text = "dterranova.fr"
 
     [params.skills]
         enable = true
@@ -264,6 +264,10 @@ It was a real privilege working with David and I hope I will have the opportunit
     [params.social]
         enable = true
 
+        [[params.social.list]]
+        icon = "fa fa-download"
+        url = "/assets/david_terranova_en.pdf"
+        title = "download as pdf"
         [[params.social.list]]
         icon = "fab fa-github-square"
         url = "//github.com/davidterranova"
