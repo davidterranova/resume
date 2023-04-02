@@ -4,6 +4,7 @@ title = 'david terranova resume. engineering manager | software architect with 1
 theme = 'devresume'
 
 [params]
+    baseURL = "https://dterranova.fr"
     author = "david terranova"
     description = "david terranova resume. hands on engineering manager | software architect with 12+ years of experience handling complex products and teams."
 
