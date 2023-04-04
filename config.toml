@@ -2,6 +2,7 @@ baseURL = 'https://dterranova.fr'
 languageCode = 'en-us'
 title = 'david terranova resume. engineering manager | software architect with 12+ years of experience'
 theme = 'devresume'
+googleAnalytics = 'G-K57TX81Z36'
 
 [params]
     baseURL = "https://dterranova.fr"
