@@ -137,15 +137,13 @@ googleAnalytics = 'G-K57TX81Z36'
         location = "Zurich (CH)"
         details = "In charge of the the Document legality domain. Extending and managing the domain with a second team. Driving the technical strategy and architecture."
         [[params.experience.list.items]]
-        details = "People management, professional and personal development, mentorship"
+        details = "Promote a culture of transparency, initiatives, autonomy, ownership and accountability"
         [[params.experience.list.items]]
-        details = "Promote transparency, initiatives, autonomy, ownership and accountability"
+        details = "OKR definition, performance reviews, process improvements"
         [[params.experience.list.items]]
-        details = "Technical strategy, cross-pod communication"
+        details = "Share system and software architectures designs to increase engineering maturity"
         [[params.experience.list.items]]
-        details = "Design and share system architectures/software design "
-        [[params.experience.list.items]]
-        details = "Sharing experiences & good practices to contribute shaping other pods"
+        details = "Share experiences & learnings with other EMs to improve the engineering organization"
 
         [[params.experience.list]]
         title = "Engineering Manager"
@@ -153,6 +151,12 @@ googleAnalytics = 'G-K57TX81Z36'
         company = "Smallpdf"
         location = "Zurich (CH)"
         details = "Hands-on engineering manager, hired a cross functional team and delivered a CQRS & Event sourcing based digital signature solution for **40M+ unique active users per month**."
+        [[params.experience.list.items]]
+        details = "Hands-on technical leadership, code reviews, technical discussions"
+        [[params.experience.list.items]]
+        details = "Estimations, planning, prioritization, delivery, monitoring, maintenance, support"
+        [[params.experience.list.items]]
+        details = "Team health, professional and personal development, coaching, mentoring"
 
         [[params.experience.list]]
         title = "Senior Software Engineer - Backend"
