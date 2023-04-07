@@ -41,10 +41,9 @@ $theme-colors: (
 
 /*********** Theme Generic **********/
 body {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    color: $theme-text-color-secondary;
-
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: $theme-text-color-secondary;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -55,13 +54,13 @@ h1, h2, h3, h4, h5, h6 {
 a.theme-link {
 	color: $theme-text-color-primary;
 	text-decoration: underline;
-    -webkit-text-decoration-color: rgba($theme-text-color-primary,0.3);
-    text-decoration-color: rgba($theme-text-color-primary,0.3);
-    &:hover {
-	    color: $theme-color-primary;
-	    -webkit-text-decoration-color: rgba($theme-color-primary,0.8);
-	        text-decoration-color: rgba($theme-color-primary,0.8);
-    }
+  -webkit-text-decoration-color: rgba($theme-text-color-primary,0.3);
+  text-decoration-color: rgba($theme-text-color-primary,0.3);
+  &:hover {
+		color: $theme-color-primary;
+		-webkit-text-decoration-color: rgba($theme-color-primary,0.8);
+		text-decoration-color: rgba($theme-color-primary,0.8);
+  }
 }
 
 .btn {
@@ -97,16 +96,16 @@ a.theme-link {
 	font-size: 1.125rem;
 	letter-spacing: 0.15rem;
 	color: $theme-color-primary;
-   &:before {
-	   content: "";
-	    display: inline-block;
-	    width: 5px;
-	    height: 100%;
-	    background: $theme-color-primary;
-	    position: absolute;
-	    left: 0;
-	    top: 0;
-   }
+  &:before {
+		content: "";
+		display: inline-block;
+		width: 5px;
+		height: 100%;
+		background: $theme-color-primary;
+		position: absolute;
+		left: 0;
+		top: 0;
+  }
 }
 
 .resume-name {
@@ -146,10 +145,10 @@ a.resume-link {
 		font-size: 1rem;
 	}
 
-   .item-meta {
-	   font-size: 0.75rem;
-   }
-   .item-content {
+  .item-meta {
+		font-size: 0.75rem;
+  }
+  .item-content {
 		font-size: 0.875rem;
 	}
 }
@@ -167,7 +166,7 @@ a.resume-link {
 
 
 .resume-education-list, .resume-awards-list {
-    font-size: 0.875rem;
+  font-size: 0.875rem;
 }
 
 
@@ -190,18 +189,17 @@ a.resume-link {
 
 // Medium devices (tablets, less than 992px)
 @media (max-width: 991.98px) {
-
-    .resume-aside {
-	    border-left: 0;
-    }
+  .resume-aside {
+		border-left: 0;
+  }
 }
 
 
 // Small devices (landscape phones, less than 768px)
 @media (max-width: 767.98px) {
 	.resume-contact {
-	    border-left: 0;
-    }
+		border-left: 0;
+  }
 }
 
 .moto {
@@ -209,10 +207,6 @@ a.resume-link {
 	margin-top: 0.5em;
 }
 
-.item-content > p > strong {
+strong {
 	color: $gray-700;
 }
-
-
-
-
