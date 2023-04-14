@@ -90,13 +90,13 @@ googleAnalytics = 'G-K57TX81Z36'
         enable = false
 
         # [[params.awards.list]]
-        # name = "Award Lorem Ipsum"
-        # body = "Microsoft lorem ipsum"
-        # date = "2019"
+        # name = ""
+        # body = ""
+        # date = ""
         # [[params.awards.list]]
-        # name = "Award Donec Sodales"
-        # body = "Oracle Aenean"
-        # date = "2017"
+        # name = ""
+        # body = ""
+        # date = ""
 
     [params.languages]
         enable = true
@@ -237,11 +237,11 @@ googleAnalytics = 'G-K57TX81Z36'
         enable = false
 
         # [[params.information.list]]
-        # title = "Papers"
+        # title = ""
         # [[params.information.list.items]]
-        # details = "2018 · Lorem Ipsum"
+        # details = ""
         # [[params.information.list.items]]
-        # details = "2016 · Sed Fringilla"
+        # details = ""
 
         [[params.information.list]]
         title = "Interests"
@@ -251,11 +251,11 @@ googleAnalytics = 'G-K57TX81Z36'
         enable = true
 
         # [[params.information.list]]
-        # title = "Mike Pilawski"
+        # title = ""
         # [[params.information.list.items]]
-        # details = "2018 · Lorem Ipsum"
+        # details = ""
         # [[params.information.list.items]]
-        # details = "2016 · Sed Fringilla"
+        # details = ""
 
         [[params.recommendations.list]]
         title = "Mike Pilawski"
