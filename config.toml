@@ -125,26 +125,29 @@ googleAnalytics = 'G-K57TX81Z36'
         text = """Passionate by tech, hands-on manager with **12+ years of experience** of end-to-end software development and 6 years of Go professional experience.
         Management experience ranging from hands-on mentoring & direct management of **multiple teams from 6 to 12 engineers** and responsible for all aspects of deliveries, deployments and maintenance of complex software solutions.
         """
-        moto = "Moto: Sometimes failing and always learning."
+        moto = "Moto: Simplicity is essential. Keep it is an art."
 
     [params.experience]
         enable = true
 
         [[params.experience.list]]
-        title = "Senior Engineering Manager"
-        dates = "2021 - Present"
-        company = "Smallpdf"
-        skills = "Golang, AWS, Postgres, CQRS"
-        location = "Zurich (CH)"
-        details = "In charge of the the Document legality domain. Extending and managing the domain with a second team. Driving the technical strategy and architecture."
+        title = "Digital project coordinator"
+        dates = "2022 - Present"
+        company = "CGI"
+        skills = "Agile, Business process, Automation, Digital transformation, Corporate social responsability"
+        location = "Montpellier (FR)"
+        details = "Within the CGI Digital Innovation Center, supporting the digital transformation of companies by modeling, optimizing and automating internal processes."
         [[params.experience.list.items]]
-        details = "Promote a culture of transparency, initiatives, autonomy, ownership and accountability"
+        details = "Optimizing CGI worldwide onboarding process using automation (90.000 employees)"
         [[params.experience.list.items]]
-        details = "OKR definition, performance reviews, process improvements"
+        details = "Setting up and applying a change management strategy"
         [[params.experience.list.items]]
-        details = "Share system and software architectures designs to increase engineering maturity"
+        details = "Structuring the pre-sales automation offer"
         [[params.experience.list.items]]
-        details = "Share experiences & learnings with other EMs to improve the engineering organization"
+        details = "Organizing consultants unit to share knowledge and experiences, increasing approach consistency and deliveries"
+        [[params.experience.list.items]]
+        details = "Developing a corporate social responsibility (CSR) offer to train teams to the sustainable IT"
+
 
         [[params.experience.list]]
         title = "Engineering Manager"
