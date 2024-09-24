@@ -131,8 +131,21 @@ googleAnalytics = 'G-K57TX81Z36'
         enable = true
 
         [[params.experience.list]]
+        title = "Engineering Manager"
+        dates = "2024 - Present"
+        company = "Lokalise"
+        location = "Montpellier (FR)"
+        details = "People, delivery and culture management of Lokalise new product"
+        [[params.experience.list.items]]
+        details = "Engineering maturity and predictability"
+        [[params.experience.list.items]]
+        details = "Roadmap and dependency management"
+        [[params.experience.list.items]]
+        details = "Ownership, transparency, initiatives and feedback culture promotion"
+
+        [[params.experience.list]]
         title = "Senior Engineering Manager"
-        dates = "2021 - Present"
+        dates = "2021 - 2024"
         company = "Smallpdf"
         skills = "Golang, AWS, Postgres, CQRS"
         location = "Zurich (CH)"
