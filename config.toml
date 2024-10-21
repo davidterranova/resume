@@ -135,13 +135,11 @@ googleAnalytics = 'G-K57TX81Z36'
         dates = "2024 - Present"
         company = "Lokalise"
         location = "Montpellier (FR)"
-        details = "People, delivery and culture management of Lokalise new product"
+        details = "People, Culture and delivery"
         [[params.experience.list.items]]
-        details = "Engineering maturity and predictability"
+        details = "Focus on teams dedicated to the new Translation platform leveraging AI to provide high quality translations at a competitive cost"
         [[params.experience.list.items]]
-        details = "Roadmap and dependency management"
-        [[params.experience.list.items]]
-        details = "Ownership, transparency, initiatives and feedback culture promotion"
+        details = "De-risking, visibility and dependency management, operational excellence"
 
         [[params.experience.list]]
         title = "Senior Engineering Manager"
@@ -155,7 +153,7 @@ googleAnalytics = 'G-K57TX81Z36'
         [[params.experience.list.items]]
         details = "OKR definition, performance reviews, process improvements"
         [[params.experience.list.items]]
-        details = "Share system and software architectures designs to increase engineering maturity"
+        details = "Share system, software architectures designs and documentations practices to increase engineering maturity"
         [[params.experience.list.items]]
         details = "Share experiences & learnings with other EMs to improve the engineering organization"
 
@@ -167,7 +165,7 @@ googleAnalytics = 'G-K57TX81Z36'
         location = "Zurich (CH)"
         details = "Hands-on engineering manager, hired a cross functional team and delivered a CQRS & Event sourcing based digital signature solution for **40M+ unique active users per month**."
         [[params.experience.list.items]]
-        details = "Hands-on technical leadership, code reviews, technical discussions"
+        details = "Hands-on technical leadership, architectural RFC proposal and reviews"
         [[params.experience.list.items]]
         details = "Estimations, planning, prioritization, delivery, monitoring, maintenance, support"
         [[params.experience.list.items]]
