@@ -7,7 +7,7 @@ googleAnalytics = 'G-K57TX81Z36'
 [params]
     baseURL = "https://dterranova.fr"
     author = "david terranova"
-    description = "david terranova resume. hands on engineering manager | software architect with 12+ years of experience handling complex products and teams. 6 years of Go professional experience"
+    description = "david terranova resume. Pragmatic and promoter of iterative over incremental approach, hands on engineering manager, I believe in the product led growth mindset | software architect with 12+ years of experience handling complex products and teams. 6 years of Go professional experience."
 
     primaryColor = "#61788c"
     textPrimaryColor = "#292929"
