@@ -136,11 +136,17 @@ googleAnalytics = 'G-K57TX81Z36'
         dates = "2024 - Present"
         company = "Lokalise"
         location = "Montpellier (FR)"
-        details = "People, Culture and delivery"
+        details = "People, Culture, Strategy and delivery"
         [[params.experience.list.items]]
-        details = "Focus on teams dedicated to the new Translation platform leveraging AI to provide high quality translations at a competitive cost"
+        details = "Focus on teams dedicated to the new Translation platform leveraging AI to provide high quality translations at a competitive cost, acting as a servant leader as much as possible"
         [[params.experience.list.items]]
-        details = "De-risking, visibility and dependency management, operational excellence"
+        details = "Coaching over managegment, relying on powerful questions to make people thinkers and not only doers"
+        [[params.experience.list.items]]
+        details = "Trust, transparency, open feedback, bottom up, ownership, data driven, iterative, continuous improvement"
+        [[params.experience.list.items]]
+        details = "Build and share the vision people can appropriate to reflect in the product"
+        [[params.experience.list.items]]
+        details = "De-risking (ICE), visibility and dependency management, operational excellence"
 
         [[params.experience.list]]
         title = "Senior Engineering Manager"
