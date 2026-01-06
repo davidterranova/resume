@@ -3,3 +3,4 @@ resources/_gen
 themes/devresume/exampleSite
 themes/devresume/resources/_gen
 .hugo_build.lock
+public
