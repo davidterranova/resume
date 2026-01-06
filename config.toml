@@ -1,6 +1,6 @@
 baseURL = 'https://dterranova.fr'
 languageCode = 'en-us'
-title = 'david terranova resume. engineering manager | software architect with 12+ years of experience | 6 years of Go professional experience'
+title = 'David Terranova | Engineering Leader | Scaling Teams & Systems to 40M+ Users | 12+ Years Experience'
 theme = 'devresume'
 googleAnalytics = 'G-K57TX81Z36'
 
@@ -15,7 +15,7 @@ googleAnalytics = 'G-K57TX81Z36'
     [params.profile]
         enable = true
         name = "David Terranova"
-        tagline = "Engineering manager | Software architect"
+        tagline = "Engineering Leader | Scaling Teams & Distributed Systems | Product-Led Growth"
         avatar = "avatar.png"
 
     [params.contact]
@@ -55,14 +55,16 @@ googleAnalytics = 'G-K57TX81Z36'
         [[params.skills.list.items]]
         details = "Agile methodologies (scrum/kanban)"
         [[params.skills.list.items]]
-        details = "Effective communication"
+        details = "Stakeholder management"
         [[params.skills.list.items]]
-        details = "Estimation and planning"
+        details = "Budget, resources and estimation planning"
+        [[params.skills.list.items]]
+        details = "Incident management & on-call"
 
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "Distributed systems"
+        details = "Event driven architecture, distributed systems"
         [[params.skills.list.items]]
         details = "Go/Python/Ruby/Java/Bash"
         [[params.skills.list.items]]
@@ -122,10 +124,9 @@ googleAnalytics = 'G-K57TX81Z36'
 
     [params.summary]
         enable = true
-        text = """Passionate by tech, hands-on manager with **12+ years of experience** of end-to-end software development and 6 years of Go professional experience.
-        Management experience ranging from hands-on mentoring & direct management of **multiple teams up to 25 engineers** and responsible for all aspects of strategy, roadmaps, deliveries, deployments and maintenance of complex software solutions, 
-        Promoter of the iterative over incremental approach, I focus on pragmatism and I am convinced by the product led growth.
-        """
+        text = """Engineering leader with **12+ years** building and scaling distributed systems, **8 years** managing high-performing teams of up to **25 engineers**, and proven track record delivering products serving **40M+ MAU users**.
+        Specialized in technical strategy, architecture, and team development, I focus on People, Culture, Strategy and deliveries. Promoter of iterative development, product-led growth, and servant leadership. Hands-on manager who combines deep technical expertise (Go, distributed systems, cloud architecture) with strong people management skills.
+        Recent achievements: Led AI-powered platform development, architected event-sourcing solutions at scale, and built engineering cultures focused on autonomy, ownership, and continuous improvement."""
         moto = "Moto: Sometimes failing and always learning."
 
     [params.experience]
@@ -138,9 +139,9 @@ googleAnalytics = 'G-K57TX81Z36'
         location = "Montpellier (FR)"
         details = "People, Culture, Strategy and delivery"
         [[params.experience.list.items]]
-        details = "Focus on teams dedicated to the new Translation platform leveraging AI to provide high quality translations at a competitive cost, acting as a servant leader as much as possible"
+        details = "Led AI-powered Translation platform team, delivering significant improvement in translation quality while reducing costs"
         [[params.experience.list.items]]
-        details = "Coaching over management, relying on powerful questions to make people thinkers and not only doers"
+        details = "Managed team of 6 engineers across 3 timezones, achieving 80+% on-time delivery rate"
         [[params.experience.list.items]]
         details = "Trust, transparency, open feedback, bottom up, ownership, data driven, iterative, continuous improvement"
         [[params.experience.list.items]]
@@ -170,7 +171,7 @@ googleAnalytics = 'G-K57TX81Z36'
         company = "Smallpdf"
         skills = "Golang, AWS, Postgres, CQRS"
         location = "Zurich (CH)"
-        details = "Hands-on engineering manager, hired a cross functional team and delivered a CQRS & Event sourcing based digital signature solution for **40M+ unique active users per month**."
+        details = "Hands-on engineering manager, hired and setup a cross functional team. Architected and delivered CQRS & Event Sourcing digital signature platform serving 40M+ MAU, reducing signature processing time and improving system reliability uptime."
         [[params.experience.list.items]]
         details = "Hands-on technical leadership, architectural RFC proposal and reviews"
         [[params.experience.list.items]]
