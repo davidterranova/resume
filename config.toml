@@ -27,10 +27,6 @@ googleAnalytics = 'G-K57TX81Z36'
         url = "tel:#"
         text = "+33 6 33 69 62 84"
         [[params.contact.list]]
-        icon = "fas fa-phone-square"
-        url = "tel:#"
-        text = "+41 76 232 56 77"
-        [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
         text = "davidp.terranova[@]gmail.com"
