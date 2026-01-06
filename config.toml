@@ -120,7 +120,7 @@ googleAnalytics = 'G-K57TX81Z36'
 
     [params.summary]
         enable = true
-        text = """Engineering leader with **12+ years** building and scaling distributed systems, **8 years** managing high-performing teams of up to **25 engineers**, and proven track record delivering products serving **40M+ MAU users**.
+        text = """Engineering leader with **12+ years** building and scaling distributed systems, **8 years** managing high-performing teams of up to **25 engineers**, and proven track record delivering products serving **40M+ MAU**.
         Specialized in technical strategy, architecture, and team development, I focus on People, Culture, Strategy and deliveries. Promoter of iterative development, product-led growth, and servant leadership. Hands-on manager who combines deep technical expertise (Go, distributed systems, cloud architecture) with strong people management skills.
         Recent achievements: Led AI-powered platform development, architected event-sourcing solutions at scale, and built engineering cultures focused on autonomy, ownership, and continuous improvement."""
         moto = "Moto: Sometimes failing and always learning."
