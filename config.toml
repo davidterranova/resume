@@ -140,7 +140,7 @@ googleAnalytics = 'G-K57TX81Z36'
         [[params.experience.list.items]]
         details = "Focus on teams dedicated to the new Translation platform leveraging AI to provide high quality translations at a competitive cost, acting as a servant leader as much as possible"
         [[params.experience.list.items]]
-        details = "Coaching over managegment, relying on powerful questions to make people thinkers and not only doers"
+        details = "Coaching over management, relying on powerful questions to make people thinkers and not only doers"
         [[params.experience.list.items]]
         details = "Trust, transparency, open feedback, bottom up, ownership, data driven, iterative, continuous improvement"
         [[params.experience.list.items]]
@@ -224,7 +224,7 @@ googleAnalytics = 'G-K57TX81Z36'
         company = "TellMePlus"
         skills = "Java, MongoDB"
         location = "Montpellier (FR)"
-        details = "Shopping Intelligence, Recommandation over Big-Data using NoSQL & CHOCO library to produce fined grained recommandation."
+        details = "Shopping Intelligence, Recommendation over Big-Data using NoSQL & CHOCO library to produce fine grained recommendations."
 
         [[params.experience.list]]
         title = "Research Engineer"
