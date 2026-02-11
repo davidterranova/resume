@@ -1,13 +1,13 @@
 baseURL = 'https://dterranova.fr'
 languageCode = 'en-us'
-title = 'David Terranova | Engineering Leader | Scaling Teams & Systems to 40M+ Users | 12+ Years Experience'
+title = 'David Terranova | Engineering Leader | Human first | Scaling Teams & Systems | 15+ Years Experience'
 theme = 'devresume'
 googleAnalytics = 'G-K57TX81Z36'
 
 [params]
     baseURL = "https://dterranova.fr"
     author = "david terranova"
-    description = "david terranova resume. Pragmatic and promoter of iterative over incremental approach, hands on engineering manager, I believe in the product led growth mindset | software architect with 12+ years of experience handling complex products and teams. 6 years of Go professional experience."
+    description = "david terranova resume. Pragmatic and promoter of iterative over incremental approach, hands on engineering manager, I believe in the product led growth mindset | software architect with 15+ years of experience handling complex products and teams. 6 years of Go professional experience."
 
     primaryColor = "#61788c"
     textPrimaryColor = "#292929"
@@ -120,9 +120,9 @@ googleAnalytics = 'G-K57TX81Z36'
 
     [params.summary]
         enable = true
-        text = """Engineering leader with **12+ years** building and scaling distributed systems, **8 years** managing high-performing teams of up to **25 engineers**, and proven track record delivering products serving **40M+ MAU**.
-        Specialized in technical strategy, architecture, and team development, I focus on People, Culture, Strategy and deliveries. Promoter of iterative development, product-led growth, and servant leadership. Hands-on manager who combines deep technical expertise (Go, distributed systems, cloud architecture) with strong people management skills.
-        Recent achievements: Led AI-powered platform development, architected event-sourcing solutions at scale, and built engineering cultures focused on autonomy, ownership, and continuous improvement."""
+        text = """Engineering leader with 12+ years building and scaling distributed systems, 8+ years managing high-performing teams of up to 25 engineers, 
+        and a track record delivering products serving 40M+ MAU. My priorities are, in order: **People, Culture, Strategy, and Delivery**. 
+        I create autonomy and alignment within teams to increase efficiency and ownership — combining hands-on technical expertise with servant leadership."""
         moto = "Moto: Sometimes failing and always learning."
 
     [params.experience]
