@@ -122,10 +122,7 @@ googleAnalytics = 'G-K57TX81Z36'
         enable = true
         text = """Engineering leader with 12+ years building and scaling distributed systems, 8+ years managing high-performing teams of up to 25 engineers, 
         and a track record delivering products serving 40M+ MAU. 
-        
         My priorities are, in order: **People, Culture, Strategy, and Delivery**. 
-        
-        
         I create autonomy and alignment within teams to increase efficiency and ownership, combining hands-on technical expertise with servant leadership."""
         moto = "Moto: Sometimes failing and always learning."
 
