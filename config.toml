@@ -197,7 +197,7 @@ googleAnalytics = 'G-K57TX81Z36'
         company = "TellMePlus"
         skills = "Golang, Streaming, k8s"
         location = "Montpellier (FR)"
-        details = "Drive the roadmap, technical strategy and key architecture of Predictive Objects to transform our proof of concept into product. A clound agnostic platform, available on premise, able to ingest realtime sensors data, compute extended features, build datasets and use supervised machine learning to train Predictive Objects models to anticipate failures on industrial plants."
+        details = "Drive the roadmap, technical strategy and key architecture of Predictive Objects to transform our proof of concept into product. A cloud agnostic platform, available on premise, able to ingest realtime sensors data, extract and compute new features, build datasets and use supervised machine learning to train Predictive Objects models to anticipate failures on industrial plants."
 
         [[params.experience.list]]
         title = "Engineering Manager - DevOps"
