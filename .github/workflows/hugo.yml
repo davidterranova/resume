@@ -61,6 +61,10 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      - name: Upload PDF artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public/david_terranova_en.pdf
 
   # Deployment job
   deploy:
