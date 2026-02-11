@@ -57,6 +57,9 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Copy PDF to public folder
+        run: |
+          cp ./assets/david_terranova_en.pdf ./public/david_terranova_en.pdf
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
