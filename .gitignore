@@ -4,3 +4,4 @@ themes/devresume/exampleSite
 themes/devresume/resources/_gen
 .hugo_build.lock
 public
+!public/david_terranova_en.pdf
